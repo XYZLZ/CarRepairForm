@@ -1,0 +1,33 @@
+
+{
+    "type":"table",
+    "name":"authorizations",
+    "database":"repaircar",
+    "authOptions":
+        [
+        {"id":"1","repairAuth":"Aire Acondicionado","dateadd":"2023-10-19 17:58:39"},
+        {"id":"2","repairAuth":"Alfombras","dateadd":"2023-10-19 17:58:39"},
+        {"id":"3","repairAuth":"Antena","dateadd":"2023-10-19 17:58:39"},
+        {"id":"4","repairAuth":"Asientos","dateadd":"2023-10-19 17:58:39"},
+        {"id":"5","repairAuth":"Bateria","dateadd":"2023-10-19 17:58:39"},
+        {"id":"6","repairAuth":"Bocinas","dateadd":"2023-10-19 17:58:39"},
+        {"id":"7","repairAuth":"LLavero","dateadd":"2023-10-19 17:58:39"},
+        {"id":"8","repairAuth":"Vidrios","dateadd":"2023-10-19 17:58:39"},
+        {"id":"9","repairAuth":"Tapa Gasolina","dateadd":"2023-10-19 17:58:39"},
+        {"id":"10","repairAuth":"Encendedor","dateadd":"2023-10-19 17:58:39"},
+        {"id":"11","repairAuth":"Tapa bocinas","dateadd":"2023-10-19 17:58:39"},
+        {"id":"12","repairAuth":"Alfombras","dateadd":"2023-10-19 17:58:39"},
+        {"id":"13","repairAuth":"Documentos","dateadd":"2023-10-19 17:58:39"},
+        {"id":"14","repairAuth":"Limpia Brisas","dateadd":"2023-10-19 17:58:39"},
+        {"id":"15","repairAuth":"Llave ruedas","dateadd":"2023-10-19 17:58:39"},
+        {"id":"16","repairAuth":"Goma Repuesto","dateadd":"2023-10-19 17:58:39"},
+        {"id":"17","repairAuth":"Logos","dateadd":"2023-10-19 17:58:39"},
+        {"id":"18","repairAuth":"Micas","dateadd":"2023-10-19 17:58:39"},
+        {"id":"19","repairAuth":"Radio","dateadd":"2023-10-19 17:58:39"},
+        {"id":"20","repairAuth":"Espejos","dateadd":"2023-10-19 17:58:39"},
+        {"id":"21","repairAuth":"Gato","dateadd":"2023-10-19 17:58:39"},
+        {"id":"22","repairAuth":"Placa","dateadd":"2023-10-19 17:58:39"},
+        {"id":"23","repairAuth":"Revista","dateadd":"2023-10-19 17:58:39"}
+        ]
+}
+

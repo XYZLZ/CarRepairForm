@@ -1,0 +1,28 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"repaircar"},
+{"type":"table","name":"brands","database":"repaircar","data":
+[
+{"id":"1","brand":"BMW","dateadd":"2023-10-19 17:53:08"},
+{"id":"2","brand":"MERCEDES-BENZ","dateadd":"2023-10-19 17:53:08"},
+{"id":"3","brand":"AUDI","dateadd":"2023-10-19 17:53:08"},
+{"id":"4","brand":"FORD","dateadd":"2023-10-19 17:53:08"},
+{"id":"5","brand":"RENAULT","dateadd":"2023-10-19 17:53:08"},
+{"id":"6","brand":"CHEVROLET","dateadd":"2023-10-19 17:53:08"},
+{"id":"7","brand":"HONDA","dateadd":"2023-10-19 17:53:08"},
+{"id":"8","brand":"HYUNDAI","dateadd":"2023-10-19 17:53:08"},
+{"id":"9","brand":"FIAT","dateadd":"2023-10-19 17:53:08"},
+{"id":"10","brand":"JEEP","dateadd":"2023-10-19 17:53:08"},
+{"id":"11","brand":"KIA","dateadd":"2023-10-19 17:53:08"},
+{"id":"12","brand":"LAMBORGHINI","dateadd":"2023-10-19 17:53:08"},
+{"id":"13","brand":"LEXUS","dateadd":"2023-10-19 17:53:08"},
+{"id":"14","brand":"MAZDA","dateadd":"2023-10-19 17:53:08"},
+{"id":"15","brand":"MERCEDES","dateadd":"2023-10-19 17:53:08"},
+{"id":"16","brand":"MITSUBISHI","dateadd":"2023-10-19 17:53:08"},
+{"id":"17","brand":"SUZUKI","dateadd":"2023-10-19 17:53:08"},
+{"id":"18","brand":"NISSAN","dateadd":"2023-10-19 17:53:08"},
+{"id":"19","brand":"TOYOTA","dateadd":"2023-10-19 17:53:08"},
+{"id":"20","brand":"TESLA","dateadd":"2023-10-19 17:53:08"}
+]
+}
+]

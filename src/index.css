@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form_input {
+    @apply w-full rounded-lg p-3 text-sm hover:border-blue-500 focus-visible:border-blue-600;
+    border: 1.7px solid rgb(229, 231, 235);
+}
+
+.form_input:focus {
+    border: 1.7px solid rgb(59, 130, 246) !important;
+}
+
+.signaturePad {
+    border: 1.7px solid black;
+    @apply rounded-lg w-96 h-44
+}
+
+.signature_btn {
+    @apply inline-block rounded border border-black bg-black px-5 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-black focus:outline-none focus:ring active:text-indigo-500;
+}
